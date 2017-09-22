@@ -1,20 +1,22 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 <head> <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
   <title>Ammendments To the Bill of Rights</title>
 <style>
 
 p {
   font-size: 20px;
-font-family: courier;
+font-family:'VT323', monospace;;
+padding-left: 20px;
 max-width: 900px;
 color:white;
 z-index: 1;
 }
 
 p:hover {
-  -webkit-animation: firstcolor 2s infinite; /* Safari 4.0 - 8.0 */
-  animation: firstcolor 2s infinite;
+  -webkit-animation: firstcolor 5s infinite; /* Safari 4.0 - 8.0 */
+  animation: firstcolor 5s infinite;
 }
 
 h1 {
@@ -33,7 +35,7 @@ h3 {
   font-family: courier;
   color: white;
   background-color: black; max-width: 970px;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 
 h3:hover {
