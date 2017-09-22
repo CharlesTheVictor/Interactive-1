@@ -48,7 +48,7 @@ h3:hover {
 }
 
 .firstbreak {
-  height: 800px;
+  height: 900px;
 }
 
 /* Safari 4.0 - 8.0 */
